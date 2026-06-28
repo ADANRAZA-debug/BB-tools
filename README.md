@@ -1,13 +1,11 @@
 <div align="center">
-
-# 🔴 ARM-SEC TOOLKIT
-
-/ \   |  _ \ |  /  |       / | | | / |
-/ _ \  | |) || |/| |      _ \ |  |  | |
-
-/ ___ \ |  _ < | |  | |  _    ) || | | |
-//   _|| _||  || ()  |____/ |__| _|
-
+<hr style="border:2px solid red;">
+_     ____   __  __         ____   _____   ____ 
+  / \   |  _ \ |  \/  |       / ___| | ____| / ___|
+ / _ \  | |_) || |\/| |      \___ \ |  _|  | |    
+/ ___ \ |  _ < | |  | |  _    ___) || |___ | |___ 
+/_/   \_\|_| \_\|_|  |_| (_)  |____/ |_____| \____|
+<hr style="border:2px solid red;">
 
 ### Advanced Concurrency & Multi-Vector Toolkit for Professional Bug Bounty Reconnaissance
 

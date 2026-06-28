@@ -3,7 +3,6 @@
 # 🔴 ARM-SEC TOOLKIT
 
 <div align="center">
-<hr style="border:2px solid red;">
 <hr style="color:red;">  
 <pre>____   __  __         ____   _____   ____ 
   / \   |  _ \ |  \/  |       / ___| | ____| / ___|

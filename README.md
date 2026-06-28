@@ -1,13 +1,11 @@
 <div align="center">
-<div align="center">
-# [![ARM-SEC TOOLKIT](https://img.shields.io/badge/ARM__SEC-TOOLKIT-red?style=for-the-badge&labelColor=black&logo=linux)](https://github.com/ADANRAZA-debug)
-<div align="center">
 <hr style="color:red;">  
 <pre>____   __  __         ____   _____   ____ 
   / \   |  _ \ |  \/  |       / ___| | ____| / ___|
  / _ \  | |_) || |\/| |      \___ \ |  _|  | |    
 / ___ \ |  _ < | |  | |  _    ___) || |___ | |___ 
 /_/   \_\|_| \_\|_|  |_| (_)  |____/ |_____| \____|
+  ____   __  __         ____   _____   ____  _____   
 </pre>
 <hr style="color:red;">
 

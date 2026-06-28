@@ -1,5 +1,6 @@
 <div align="center">
-# [![ARM-SEC Toolset](https://img.shields.io/badge/ARM--SEC-TOOLKIT-red?style=for-the-badge&labelColor=black)](https://github.com/ADANRAZA-debug)
+<div align="center">
+# [![ARM-SEC TOOLKIT](https://img.shields.io/badge/ARM__SEC-TOOLKIT-red?style=for-the-badge&labelColor=black&logo=linux)](https://github.com/ADANRAZA-debug)
 <div align="center">
 <hr style="color:red;">  
 <pre>____   __  __         ____   _____   ____ 

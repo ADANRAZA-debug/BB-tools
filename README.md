@@ -1,15 +1,22 @@
 <div align="center">
 
-# 🛠️ BB-Tools
+# 🔴 ARM-SEC TOOLKIT
+
+/ \   |  _ \ |  /  |       / | | | / |
+/ _ \  | |) || |/| |      _ \ |  |  | |
+
+/ ___ \ |  _ < | |  | |  _    ) || | | |
+//   _|| _||  || ()  |____/ |__| _|
+
 
 ### Advanced Concurrency & Multi-Vector Toolkit for Professional Bug Bounty Reconnaissance
 
 <br>
 
-![Python](https://shields.io)
-![Tools Included](https://shields.io)
-![License](https://shields.io)
-![Platform](https://shields.io)
+![Language](https://img.shields.io/badge/Language-Python%20%2F%20Bash-red?style=for-the-badge&logo=linux)
+![Tools](https://img.shields.io/badge/Tools-SecretScanner%20%7C%20Arm--Recon-black?style=for-the-badge&logo=securityscorecard&logoColor=red)
+![Platform](https://img.shields.io/badge/Platform-WSL2%20%2F%20Linux-red?style=for-the-badge&logo=ubuntu)
+![License](https://img.shields.io/badge/License-MIT-black?style=for-the-badge)
 
 <br>
 

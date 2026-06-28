@@ -1,16 +1,15 @@
 <div align="center">
 <hr style="border:2px solid red;">
 <pre>
-<pre>
-<img src="https://placehold.co" width="100%" height="3" alt="red divider line">
-  _     ____   __  __         ____   _____   ____ 
+<hr style="color:red;">  
+</pre>
+<pre>____   __  __         ____   _____   ____ 
   / \   |  _ \ |  \/  |       / ___| | ____| / ___|
  / _ \  | |_) || |\/| |      \___ \ |  _|  | |    
 / ___ \ |  _ < | |  | |  _    ___) || |___ | |___ 
 /_/   \_\|_| \_\|_|  |_| (_)  |____/ |_____| \____|
 </pre>
-
-<img src="https://placehold.co" width="100%" height="3" alt="red divider line">
+<hr style="color:red;">
 
 
 ### Advanced Concurrency & Multi-Vector Toolkit for Professional Bug Bounty Reconnaissance

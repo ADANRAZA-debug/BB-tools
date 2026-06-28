@@ -6,10 +6,10 @@
 
 <br>
 
-<img src="https://shields.io" alt="Python" />
-<img src="https://shields.io" alt="Tools Included" />
-<img src="https://shields.io" alt="License" />
-<img src="https://shields.io" alt="Platform" />
+![Python](https://shields.io)
+![Tools Included](https://shields.io)
+![License](https://shields.io)
+![Platform](https://shields.io)
 
 <br>
 

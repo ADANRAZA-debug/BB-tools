@@ -6,10 +6,10 @@
 
 <br>
 
-[![Python](https://shields.io)](https://github.com)
-[![Tools Included](https://shields.io)](https://github.com)
-[![License](https://shields.io)](https://github.com)
-[![Platform](https://shields.io)](https://github.com)
+![Python](https://shields.io)
+![Tools Included](https://shields.io)
+![License](https://shields.io)
+![Platform](https://shields.io)
 
 <br>
 
